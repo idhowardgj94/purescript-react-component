@@ -4,7 +4,7 @@ just a purescript practice, redoing example from [purescript-react-basic](https:
 
 note that newest version of purescript-react-basic is 15.0.0；and it don't have a example, nor offical website yet.
 
-so you need to change something from example to upgrading to 15.0.0 (from [purescript-react-basic]):
+so you need to change something from example to upgrading to 15.0.0 (from [purescript-react-basic](https://github.com/lumihq/purescript-react-basic/tree/v14.0.0/examples/component)):
 
  ---
 
